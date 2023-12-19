@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amber-Lea-P
-- 👀 I’m interested in full stack development, cyber security and video game development. 
-- 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on beginner level projects. I can currently use HTML and CSS efficiently.
+- 👀 I’m interested in full stack development, animations and video game development. 
+- 🌱 I'm a certified full stack developer.
+- 💞️ I’m looking to collaborate on intermediate level projects. I can currently use the MERN efficiently.
 - 📫 How to reach me: amber.pontinen@gmail.com
 
 
